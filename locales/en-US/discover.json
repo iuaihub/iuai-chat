@@ -56,7 +56,7 @@
       "desc1": "Access the settings page for the assistant you want to submit through the settings in the upper right corner of the conversation window;",
       "desc2": "Click the 'Submit to Assistant Marketplace' button in the upper right corner.",
       "tag": "Method One",
-      "title": "Submit via LobeChat"
+      "title": "Submit via IuaiChat"
     },
     "func2": {
       "button": "Go to GitHub Assistant Repository",
@@ -138,14 +138,14 @@
       "type": "Type"
     },
     "providerInfo": {
-      "apiTooltip": "LobeChat supports using a custom API key for this provider.",
+      "apiTooltip": "IuaiChat supports using a custom API key for this provider.",
       "input": "Input Price",
       "inputTooltip": "Cost per million tokens",
       "latency": "Latency",
       "latencyTooltip": "Average response time for the provider to send the first token",
       "maxOutput": "Maximum Output Length",
       "maxOutputTooltip": "Maximum number of tokens this endpoint can generate",
-      "officialTooltip": "LobeHub Official Service",
+      "officialTooltip": "IuaiHub Official Service",
       "output": "Output Price",
       "outputTooltip": "Cost per million tokens",
       "streamCancellationTooltip": "This provider supports stream cancellation.",
