@@ -102,8 +102,8 @@
 
 <details><summary><kbd>Star History</kbd></summary>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lobehub%2Flobe-chat&theme=dark&type=Date">
-    <img src="https://api.star-history.com/svg?repos=lobehub%2Flobe-chat&type=Date">
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=iuaihub%2Fiuai-chat&theme=dark&type=Date">
+    <img src="https://api.star-history.com/svg?repos=iuaihub%2Fiuai-chat&type=Date">
   </picture>
 </details>
 
@@ -119,7 +119,7 @@ IuaiChat 支持文件上传与知识库功能，你可以上传文件、图片�
 
 > \[!TIP]
 >
-> 查阅 [📘 IuaiChat 知识库上线 —— 此刻起，跬步千里](https://lobehub.com/zh/blog/knowledge-base) 了解详情。
+> 查阅 [📘 IuaiChat 知识库上线 —— 此刻起，跬步千里](https://iuaihub.com/zh/blog/knowledge-base) 了解详情。
 
 <div align="right">
 
@@ -151,7 +151,7 @@ IuaiChat 支持文件上传与知识库功能，你可以上传文件、图片�
 - **Minimax**: 接入了 Minimax 的 AI 模型，包括 MoE 模型 **abab6**，提供了更多的选择空间。[了解更多](https://www.minimaxi.com/)
 - **DeepSeek**: 接入了 DeepSeek 的 AI 模型，包括最新的 **DeepSeek-V2**，提供兼顾性能与价格的模型。[了解更多](https://www.deepseek.com/)
 - **Qwen**: 接入了 Qwen 的 AI 模型，包括最新的 **qwen-turbo**，**qwen-plus** 和 **qwen-max** 等模型。[了解更多](https://help.aliyun.com/zh/dashscope/developer-reference/model-introduction)
-- **Novita AI**: 性价比最高的开源模型供应商，支持 **Llama**，**Mistral** 系列等最前沿的开源模型。在情感陪伴等场景表现优异，无任何内容限制或审查。 [了解更多](https://novita.ai/model-api/product/llm-api?utm_source=lobechat&utm_medium=ch&utm_campaign=api)
+- **Novita AI**: 性价比最高的开源模型供应商，支持 **Llama**，**Mistral** 系列等最前沿的开源模型。在情感陪伴等场景表现优异，无任何内容限制或审查。 [了解更多](https://novita.ai/model-api/product/llm-api?utm_source=iuaichat&utm_medium=ch&utm_campaign=api)
 
 同时，我们也在计划支持更多的模型服务商，如 Replicate 和 Perplexity 等，以进一步丰富我们的服务商库。如果你希望让 IuaiChat 支持你喜爱的服务商，欢迎加入我们的[社区讨论](https://github.com/iuaihub/iuai-chat/discussions/1284)。
 

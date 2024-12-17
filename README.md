@@ -102,8 +102,8 @@ Whether for users or professional developers, IuaiHub will be your AI Agent play
 <details>
   <summary><kbd>Star History</kbd></summary>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lobehub%2Flobe-chat&theme=dark&type=Date">
-    <img width="100%" src="https://api.star-history.com/svg?repos=lobehub%2Flobe-chat&type=Date">
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=iuaihub%2Fiuai-chat&theme=dark&type=Date">
+    <img width="100%" src="https://api.star-history.com/svg?repos=iuaihub%2Fiuai-chat&type=Date">
   </picture>
 </details>
 
@@ -119,7 +119,7 @@ IuaiChat supports file upload and knowledge base functionality. You can upload v
 
 > \[!TIP]
 >
-> Learn more on [📘 IuaiChat Knowledge Base Launch — From Now On, Every Step Counts](https://lobehub.com/blog/knowledge-base)
+> Learn more on [📘 IuaiChat Knowledge Base Launch — From Now On, Every Step Counts](https://iuaihub.com/blog/knowledge-base)
 
 <div align="right">
 
@@ -151,9 +151,9 @@ We have implemented support for the following model service providers:
 - **Minimax**: Integrated the Minimax models, including the MoE model **abab6**, offers a broader range of choices. [Learn more](https://www.minimaxi.com/)
 - **DeepSeek**: Integrated with the DeepSeek series models, an innovative AI startup from China, The product has been designed to provide a model that balances performance with price. [Learn more](https://www.deepseek.com/)
 - **Qwen**: Integrated the Qwen series models, including the latest **qwen-turbo**, **qwen-plus** and **qwen-max**. [Learn more](https://help.aliyun.com/zh/dashscope/developer-reference/model-introduction)
-- **Novita AI**: Access **Llama**, **Mistral**, and other leading open-source models at cheapest prices. Engage in uncensored role-play, spark creative discussions, and foster unrestricted innovation. **Pay For What You Use.** [Learn more](https://novita.ai/llm-api?utm_source=lobechat&utm_medium=ch&utm_campaign=api)
+- **Novita AI**: Access **Llama**, **Mistral**, and other leading open-source models at cheapest prices. Engage in uncensored role-play, spark creative discussions, and foster unrestricted innovation. **Pay For What You Use.** [Learn more](https://novita.ai/llm-api?utm_source=iuaichat&utm_medium=ch&utm_campaign=api)
 
-At the same time, we are also planning to support more model service providers, such as Replicate and Perplexity, to further enrich our service provider library. If you would like IuaiChat to support your favorite service provider, feel free to join our [community discussion](https://github.com/lobehub/lobe-chat/discussions/1284).
+At the same time, we are also planning to support more model service providers, such as Replicate and Perplexity, to further enrich our service provider library. If you would like IuaiChat to support your favorite service provider, feel free to join our [community discussion](https://github.com/iuaihub/iuai-chat/discussions/1284).
 
 <div align="right">
 
@@ -246,12 +246,12 @@ In addition, these plugins are not limited to news aggregation, but can also ext
 
 | Recent Submits                                                                                                 | Description                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| [Google CSE](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **vsnthdev** on **2024-12-02**</sup> | Searches Google through their official CSE API.<br/>`web` `search`                                                   |
-| [Google CSE](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **vsnthdev** on **2024-12-02**</sup> | Searches Google through their official CSE API.<br/>`web` `search`                                                   |
-| [Speak](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **speak** on **2024-12-02**</sup>         | Learn how to say anything in another language with Speak, your AI-powered language tutor.<br/>`education` `language` |
-| [Speak](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **speak** on **2024-12-02**</sup>         | Learn how to say anything in another language with Speak, your AI-powered language tutor.<br/>`education` `language` |
+| [Google CSE](https://chat-preview.iuaihub.com/settings/agent)<br/><sup>By **vsnthdev** on **2024-12-02**</sup> | Searches Google through their official CSE API.<br/>`web` `search`                                                   |
+| [Google CSE](https://chat-preview.iuaihub.com/settings/agent)<br/><sup>By **vsnthdev** on **2024-12-02**</sup> | Searches Google through their official CSE API.<br/>`web` `search`                                                   |
+| [Speak](https://chat-preview.iuaihub.com/settings/agent)<br/><sup>By **speak** on **2024-12-02**</sup>         | Learn how to say anything in another language with Speak, your AI-powered language tutor.<br/>`education` `language` |
+| [Speak](https://chat-preview.iuaihub.com/settings/agent)<br/><sup>By **speak** on **2024-12-02**</sup>         | Learn how to say anything in another language with Speak, your AI-powered language tutor.<br/>`education` `language` |
 
-> 📊 Total plugins: [<kbd>**98**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
+> 📊 Total plugins: [<kbd>**98**</kbd>](https://github.com/iuaihub/iuai-chat-plugins)
 
  <!-- PLUGIN LIST -->
 
@@ -285,12 +285,12 @@ Our marketplace is not just a showcase platform but also a collaborative space. 
 
 | Recent Submits                                                                                                                                                                       | Description                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [System Instruction Expert](https://chat-preview.lobehub.com/market?agent=instructer)<br/><sup>By **[yuyun2000](https://github.com/yuyun2000)** on **undefined**</sup>               | Skilled in refining and generating efficient system instructions<br/>`system-instructions` `writing` `detail-optimization` `user-needs`                                  |
-| [Japanese Memory Helper](https://chat-preview.lobehub.com/market?agent=japan-language-helper)<br/><sup>By **[sharkbear212](https://github.com/sharkbear212)** on **undefined**</sup> | Specializes in Japanese Hiragana, Katakana, vocabulary, and memory techniques for explanations and phrases<br/>`explanation` `memory-techniques` `japanese-teaching`     |
-| [Poetry Card Designer](https://chat-preview.lobehub.com/market?agent=poetry-card-designer)<br/><sup>By **[lianxin255](https://github.com/lianxin255)** on **undefined**</sup>        | Skilled in designing poetry cards to enhance artistic sense and appeal<br/>`poetry-card-design` `card` `creativity` `artistic-expression`                                |
-| [Daily Doctor](https://chat-preview.lobehub.com/market?agent=yunchat-docter)<br/><sup>By **[yuyun2000](https://github.com/yuyun2000)** on **undefined**</sup>                        | Specializes in surgical diagnosis and personalized health management<br/>`general-medicine` `surgery` `health-consultation` `personalized-treatment` `medical-education` |
+| [System Instruction Expert](https://chat-preview.iuaihub.com/market?agent=instructer)<br/><sup>By **[yuyun2000](https://github.com/yuyun2000)** on **undefined**</sup>               | Skilled in refining and generating efficient system instructions<br/>`system-instructions` `writing` `detail-optimization` `user-needs`                                  |
+| [Japanese Memory Helper](https://chat-preview.iuaihub.com/market?agent=japan-language-helper)<br/><sup>By **[sharkbear212](https://github.com/sharkbear212)** on **undefined**</sup> | Specializes in Japanese Hiragana, Katakana, vocabulary, and memory techniques for explanations and phrases<br/>`explanation` `memory-techniques` `japanese-teaching`     |
+| [Poetry Card Designer](https://chat-preview.iuaihub.com/market?agent=poetry-card-designer)<br/><sup>By **[lianxin255](https://github.com/lianxin255)** on **undefined**</sup>        | Skilled in designing poetry cards to enhance artistic sense and appeal<br/>`poetry-card-design` `card` `creativity` `artistic-expression`                                |
+| [Daily Doctor](https://chat-preview.iuaihub.com/market?agent=yunchat-docter)<br/><sup>By **[yuyun2000](https://github.com/yuyun2000)** on **undefined**</sup>                        | Specializes in surgical diagnosis and personalized health management<br/>`general-medicine` `surgery` `health-consultation` `personalized-treatment` `medical-education` |
 
-> 📊 Total agents: [<kbd>**453**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
+> 📊 Total agents: [<kbd>**453**</kbd> ](https://github.com/iuaihub/iuai-chat-agents)
 
  <!-- AGENT LIST -->
 
@@ -307,7 +307,7 @@ Our marketplace is not just a showcase platform but also a collaborative space. 
 IuaiChat supports the use of both server-side and local databases. Depending on your needs, you can choose the appropriate deployment solution:
 
 - **Local database**: suitable for users who want more control over their data and privacy protection. IuaiChat uses CRDT (Conflict-Free Replicated Data Type) technology to achieve multi-device synchronization. This is an experimental feature aimed at providing a seamless data synchronization experience.
-- **Server-side database**: suitable for users who want a more convenient user experience. IuaiChat supports PostgreSQL as a server-side database. For detailed documentation on how to configure the server-side database, please visit [Configure Server-side Database](https://lobehub.com/docs/self-hosting/advanced/server-database).
+- **Server-side database**: suitable for users who want a more convenient user experience. IuaiChat supports PostgreSQL as a server-side database. For detailed documentation on how to configure the server-side database, please visit [Configure Server-side Database](https://iuaihub.com/docs/self-hosting/advanced/server-database).
 
 Regardless of which database you choose, IuaiChat can provide you with an excellent user experience.
 
@@ -485,9 +485,9 @@ We provide a Docker image for deploying the IuaiChat service on your own private
 ```fish
 $ docker run -d -p 3210:3210 \
   -e OPENAI_API_KEY=sk-xxxx \
-  -e ACCESS_CODE=lobe66 \
-  --name lobe-chat \
-  lobehub/lobe-chat
+  -e ACCESS_CODE=iuai66 \
+  --name iuai-chat \
+  iuaihub/iuai-chat
 ```
 
 > \[!TIP]
@@ -498,9 +498,9 @@ $ docker run -d -p 3210:3210 \
 $ docker run -d -p 3210:3210 \
   -e OPENAI_API_KEY=sk-xxxx \
   -e OPENAI_PROXY_URL=https://api-proxy.com/v1 \
-  -e ACCESS_CODE=lobe66 \
-  --name lobe-chat \
-  lobehub/lobe-chat
+  -e ACCESS_CODE=iuai66 \
+  --name iuai-chat \
+  iuaihub/iuai-chat
 ```
 
 > \[!NOTE]
@@ -558,9 +558,9 @@ Plugins provide a means to extend the [Function Calling][docs-functionc-call] ca
 >
 > The plugin system is currently undergoing major development. You can learn more in the following issues:
 >
-> - [x] [**Plugin Phase 1**](https://github.com/lobehub/lobe-chat/issues/73): Implement separation of the plugin from the main body, split the plugin into an independent repository for maintenance, and realize dynamic loading of the plugin.
-> - [x] [**Plugin Phase 2**](https://github.com/lobehub/lobe-chat/issues/97): The security and stability of the plugin's use, more accurately presenting abnormal states, the maintainability of the plugin architecture, and developer-friendly.
-> - [x] [**Plugin Phase 3**](https://github.com/lobehub/lobe-chat/issues/149): Higher-level and more comprehensive customization capabilities, support for plugin authentication, and examples.
+> - [x] [**Plugin Phase 1**](https://github.com/iuaihub/iuai-chat/issues/73): Implement separation of the plugin from the main body, split the plugin into an independent repository for maintenance, and realize dynamic loading of the plugin.
+> - [x] [**Plugin Phase 2**](https://github.com/iuaihub/iuai-chat/issues/97): The security and stability of the plugin's use, more accurately presenting abnormal states, the maintainability of the plugin architecture, and developer-friendly.
+> - [x] [**Plugin Phase 3**](https://github.com/iuaihub/iuai-chat/issues/149): Higher-level and more comprehensive customization capabilities, support for plugin authentication, and examples.
 
 <div align="right">
 
@@ -577,8 +577,8 @@ You can use GitHub Codespaces for online development:
 Or clone it for local development:
 
 ```fish
-$ git clone https://github.com/lobehub/lobe-chat.git
-$ cd lobe-chat
+$ git clone https://github.com/iuaihub/iuai-chat.git
+$ cd iuai-chat
 $ pnpm install
 $ pnpm dev
 ```
@@ -607,11 +607,11 @@ Contributions of all types are more than welcome; if you are interested in contr
 [![][submit-agents-shield]][submit-agents-link]
 [![][submit-plugin-shield]][submit-plugin-link]
 <!--
-<a href="https://github.com/lobehub/lobe-chat/graphs/contributors" target="_blank">
+<a href="https://github.com/iuaihub/iuai-chat/graphs/contributors" target="_blank">
   <table>
     <tr>
       <th colspan="2">
-        <br><img src="https://contrib.rocks/image?repo=lobehub/lobe-chat"><br><br>
+        <br><img src="https://contrib.rocks/image?repo=iuaihub/iuai-chat"><br><br>
       </th>
     </tr>
     <tr>
@@ -649,10 +649,10 @@ Contributions of all types are more than welcome; if you are interested in contr
 
 Every bit counts and your one-time donation sparkles in our galaxy of support! You're a shooting star, making a swift and bright impact on our journey. Thank you for believing in us – your generosity guides us toward our mission, one brilliant flash at a time.
 
-<a href="https://opencollective.com/lobehub" target="_blank">
+<a href="https://opencollective.com/iuaihub" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lobehub/.github/blob/main/static/sponsor-dark.png?raw=true">
-    <img  src="https://github.com/lobehub/.github/blob/main/static/sponsor-light.png?raw=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iuaihub/.github/blob/main/static/sponsor-dark.png?raw=true">
+    <img  src="https://github.com/iuaihub/.github/blob/main/static/sponsor-light.png?raw=true">
   </picture>
 </a>
 
@@ -664,10 +664,10 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 
 ## 🔗 More Products
 
-- **[🅰️ Iuai SD Theme][lobe-theme]:** Modern theme for Stable Diffusion WebUI, exquisite interface design, highly customizable UI, and efficiency-boosting features.
-- **[⛵️ Iuai Midjourney WebUI][lobe-midjourney-webui]:** WebUI for Midjourney, leverages AI to quickly generate a wide array of rich and diverse images from text prompts, sparking creativity and enhancing conversations.
-- **[🌏 Iuai i18n][lobe-i18n] :** Iuai i18n is an automation tool for the i18n (internationalization) translation process, powered by ChatGPT. It supports features such as automatic splitting of large files, incremental updates, and customization options for the OpenAI model, API proxy, and temperature.
-- **[💌 Iuai Commit][lobe-commit]:** Iuai Commit is a CLI tool that leverages Langchain/ChatGPT to generate Gitmoji-based commit messages.
+- **[🅰️ Iuai SD Theme][iuai-theme]:** Modern theme for Stable Diffusion WebUI, exquisite interface design, highly customizable UI, and efficiency-boosting features.
+- **[⛵️ Iuai Midjourney WebUI][iuai-midjourney-webui]:** WebUI for Midjourney, leverages AI to quickly generate a wide array of rich and diverse images from text prompts, sparking creativity and enhancing conversations.
+- **[🌏 Iuai i18n][iuai-i18n] :** Iuai i18n is an automation tool for the i18n (internationalization) translation process, powered by ChatGPT. It supports features such as automatic splitting of large files, incremental updates, and customization options for the OpenAI model, API proxy, and temperature.
+- **[💌 Iuai Commit][iuai-commit]:** Iuai Commit is a CLI tool that leverages Langchain/ChatGPT to generate Gitmoji-based commit messages.
 
 <div align="right">
 
@@ -689,7 +689,7 @@ This project is [Apache 2.0](./LICENSE) licensed.
 <!-- LINK GROUP -->
 
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
-[blog]: https://lobehub.com/blog
+[blog]: https://iuaihub.com/blog
 [chat-desktop]: https://raw.githubusercontent.com/lobehub/lobe-chat/lighthouse/lighthouse/chat/desktop/pagespeed.svg
 [chat-desktop-report]: https://lobehub.github.io/lobe-chat/lighthouse/chat/desktop/chat_preview_lobehub_com_chat.html
 [chat-mobile]: https://raw.githubusercontent.com/lobehub/lobe-chat/lighthouse/lighthouse/chat/mobile/pagespeed.svg
