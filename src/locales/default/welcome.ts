@@ -8,7 +8,7 @@ export default {
       '我是您的私人智能助理 {{appName}} ，请问现在能帮您做什么？\n如果需要获得更加专业或定制的助手，可以点击 `+` 创建自定义助手',
     defaultMessageWithoutCreate: '我是您的私人智能助理 {{appName}} ，请问现在能帮您做什么？',
     qa: {
-      q01: 'LobeHub 是什么？',
+      q01: 'IuaiHub 是什么？',
       q02: '{{appName}} 是什么？',
       q03: '{{appName}} 是否有社区支持？',
       q04: '{{appName}} 支持哪些功能？',
